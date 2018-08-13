@@ -113,7 +113,7 @@ form{
 	font-size: 15PX;
 	color: #FFF;
 }
-@media (min-width:320px) and (max-width:760px){
+@media (max-width:320px){
 	body{
 		background-size: 100% 100%;
 		background-position: center;
